@@ -1,0 +1,35 @@
+{
+  "name": "media-tag-api",
+  "version": "0.0.1",
+  "description": "Demo Rest API for tagging media resources related to tv shows",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "colors": "^1.0.3",
+    "config": "^1.30.0",
+    "halson": "^2.3.1",
+    "mongoose": "5.3.12",
+    "mongoose-json-select": "^0.2.1",
+    "mongoose-mock": "^0.4.0",
+    "proxyquire": "^2.0.1",
+    "restify": "^6.0.0",
+    "restify-errors": "^6.0.0",
+    "restify-plugins": "^1.6.0",
+    "sinon": "^4.5.0",
+    "tv4": "^1.1.9",
+    "tv4-formats": "^1.0.0",
+    "underscore": "^1.7.0",
+    "winston": "^3.0.0-rc2"
+  },
+  "devDependencies": {},
+  "scripts": {
+  	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Taras Yakubiv <tarasyakubiv@gmail.com>",
+  "license": "ISC"
+}

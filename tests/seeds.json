@@ -1,0 +1,28 @@
+//show
+{
+"name": "BBUS20",
+"description": "whatever",
+"contestants": [],
+"images": []
+}
+//image
+{
+ "image_link": "something.png",
+ "thumb_link": "thumb.jpg",
+ "source_link": "",
+ "show": "",
+ "contestants": [],
+ "tags": []
+}
+//tag
+{
+ "name": "laughing",
+ "images": []
+}
+//contestant
+{
+ "name": "Sam Bledsoe",
+ "description": "deranged qt",
+ "shows": [],
+ "images": []
+}
